@@ -1,5 +1,5 @@
 # SURE-TRUST-SQL-POWER-BI-PROJECT-
-# My SQL & Power BI Projects Repository
+ # My Power BI & SQL Projects Repository
 
 This repository contains my academic and practice projects related to **Data Analytics**, **SQL**, and **Visualization**. It includes one **major project**, one **mini project**, one **SQL project**, and 4 **assignments**.
 
@@ -15,19 +15,19 @@ This repository contains my academic and practice projects related to **Data Ana
   - Device/Platform breakdown
   - Conversion funnel visualization
 
-📌 **Tools Used**: Power BI,  DAX
+📌 **Tools Used**: Power BI, Excel, DAX
 
 ---
 
-### 🔹 Mini Project: Website Analysis Dashboard (Power BI)
+### 🔹 Mini Project: Coffee Sales Dashboard (Power BI)
 - A smaller version of the major project.  
 - Focused on **basic KPIs**:
-  - Total Sales
+  - Total Sale
   - Average Sales
-  - Proffit analysis 
+   
 
 📸 **Mini Project Dashboard Screenshot**  
-![Mini Dashboard]([images/mini_dashboard.png](https://github.com/Anjalias2004/SURE-TRUST-SQL-POWER-BI-PROJECT-/blob/main/Miniproject.png))
+![Mini Dashboard](images/mini_dashboard.png)
 
 ---
 
@@ -43,19 +43,12 @@ This repository contains my academic and practice projects related to **Data Ana
 
 📸 **SQL Project Screenshots**  
 - Google Sheet  
-![Google Sheet]([images/google_sheet.png](https://github.com/Anjalias2004/SURE-TRUST-SQL-POWER-BI-PROJECT-/blob/main/googlesheet_image.png))  
+![Google Sheet](images/google_sheet.png)  
 
 - MySQL Table  
-![SQL Table]([images/sql_table.png](https://github.com/Anjalias2004/SURE-TRUST-SQL-POWER-BI-PROJECT-/blob/main/mysql_data_form_googlesheet.png))
+![SQL Table](images/sql_table.png)
 
 ---
 
 ## 📝 Assignments
 This repo also includes 4 assignments 
-
----
-
-## 🚀 How to Use This Repo
-- Clone the repo:  
-  ```bash
-  git clone https://github.com/yourusername/your-repo-name.git
