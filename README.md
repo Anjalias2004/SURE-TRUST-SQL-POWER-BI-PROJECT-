@@ -26,9 +26,6 @@ This repository contains my academic and practice projects related to **Data Ana
   - Average Sales
    
 
-📸 **Mini Project Dashboard Screenshot**  
-![Mini Dashboard](images/mini_dashboard.png)
-
 ---
 
 ### 🔹 SQL Project: Meeting Feedback Automation
@@ -41,12 +38,6 @@ This repository contains my academic and practice projects related to **Data Ana
 
 📌 **Tools Used**: Google Forms, Google Sheets, MySQL Workbench, Python  
 
-📸 **SQL Project Screenshots**  
-- Google Sheet  
-![Google Sheet](images/google_sheet.png)  
-
-- MySQL Table  
-![SQL Table](images/sql_table.png)
 
 ---
 
