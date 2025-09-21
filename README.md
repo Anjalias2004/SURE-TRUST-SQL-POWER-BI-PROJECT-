@@ -41,5 +41,3 @@ This repository contains my academic and practice projects related to **Data Ana
 
 ---
 
-## 📝 Assignments
-This repo also includes 4 assignments 
